@@ -35,7 +35,6 @@ The challenge is a 1.5-days initiative in which PhD candidates will explort the 
 .
 ├── nebula_client_example.py # Example of client for interacting with the Rest API of Nebula
 ├── pdf2text_converter.py    # Basic Python script for converting a PDF file into a plain txt file
-├── pdf2text_converter.py    # Basic Python script for converting a PDF file into a plain txt file
 ├── LICENSE
 └── README.md
 ```
