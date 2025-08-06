@@ -22,7 +22,6 @@ Partners in the consortium:
 The challenge is a 1.5-days initiative in which PhD candidates will explort the ethical dimensions of Large Language Models (LLMs). The participants to the challenge get an hands-on experience on real-world risks and dilemmas that arise from the usage of LLMs. 
 
 The details of the challenge are provided in this slide deck.
-[<img width=500px, src="./docs/cover.jpg"/>](href="https://docs.google.com/presentation/d/1f__61_6sa8cGd4no018wLMskooux8XR7UypTFNqkRXQ/edit?usp=sharing)
 
 <a href="[https://www.youtube.com/watch?v=your-video-id](https://docs.google.com/presentation/d/1f__61_6sa8cGd4no018wLMskooux8XR7UypTFNqkRXQ/edit?usp=sharing)">
   <img src="./docs/cover.jpg" alt="Click me!" />
