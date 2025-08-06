@@ -22,7 +22,7 @@ Partners in the consortium:
 The challenge is a 1.5-days initiative in which PhD candidates will explort the ethical dimensions of Large Language Models (LLMs). The participants to the challenge get an hands-on experience on real-world risks and dilemmas that arise from the usage of LLMs. The details of the challenge are provided in this [slide deck](https://docs.google.com/presentation/d/1f__61_6sa8cGd4no018wLMskooux8XR7UypTFNqkRXQ/edit?usp=sharing).
 
 <p align="center">
-<img src="./docs/cover" alt="Slide deck of the challenge" width="500"/>
+<img src="./docs/cover.jpg" alt="Slide deck of the challenge" width="500"/>
 </p>
 
 Technically, the challenge is based on [Nebula](https://networkinstitute.org/nebula/), an open-source platform dedicated to researchers for hosting and running open Large Language Models (LLMs) as well as small language models and other foundational AI models. Nebula is fully localized at the Vrije Universiteit Amsterdam and it is managed by the [Network Institute](https://networkinstitute.org). 
