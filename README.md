@@ -24,7 +24,7 @@ The challenge is a 1.5-days initiative in which PhD candidates will explort the 
 The details of the challenge are provided in this slide deck.
 [<img width=500px, src="./docs/cover.jpg"/>](href="https://docs.google.com/presentation/d/1f__61_6sa8cGd4no018wLMskooux8XR7UypTFNqkRXQ/edit?usp=sharing)
 
-[![ICSE 2021 Tool demo](./docs/cover.jpg)](href="https://docs.google.com/presentation/d/1f__61_6sa8cGd4no018wLMskooux8XR7UypTFNqkRXQ/edit?usp=sharing)
+[![Alt text for broken image link](./docs/cover.jpg)](href="https://docs.google.com/presentation/d/1f__61_6sa8cGd4no018wLMskooux8XR7UypTFNqkRXQ/edit?usp=sharing)
 
 Technically, the challenge is based on [Nebula](https://networkinstitute.org/nebula/), an open-source platform dedicated to researchers for hosting and running open Large Language Models (LLMs) as well as small language models and other foundational AI models. Nebula is fully localized at the Vrije Universiteit Amsterdam and it is managed by the [Network Institute](https://networkinstitute.org). 
 
