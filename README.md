@@ -84,6 +84,7 @@ Other examples of prompts are available in the [TALLMesh](https://arxiv.org/abs/
 
 5. Make a call to the Nebula API:
 
+   Firstly configure the Nebula client by following the instructions [here](https://github.com/networkinstitutevu/nebula-api-examples). 
    ```
    python nebula_client_example.py # Inspect the source code for the details
    ```
