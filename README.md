@@ -15,7 +15,7 @@ Partners in the consortium:
 - Oslo Metropilitan University (Norway)
 - Vrije Universiteit Amsterdam (Netherlands)
 - University of Malaga (Spain)
-- Zurcher Hochschule Fur Angewandte Wissenschaften (Switzerland)
+- University of Bern (Switzerland)
 
 ## What is this challenge about?
 
@@ -67,7 +67,7 @@ Other examples of prompts are available in the [TALLMesh](https://arxiv.org/abs/
 3. Install the required packages:
 
    ```
-   pip install pyobjc-framework-Quartz
+   pip install pyobjc-framework-Quartz openai dotenv
    ```
 
 4. Convert a PDF document to a textual file:
